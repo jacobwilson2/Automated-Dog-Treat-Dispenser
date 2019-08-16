@@ -38,3 +38,7 @@ timestamp so the owner can monitor the dog’s treat eating habitats.
 ![GPIO](https://user-images.githubusercontent.com/44330919/63144065-d3cea880-bfb6-11e9-9402-32bd0312e217.png)
 
 ![Picture1](https://user-images.githubusercontent.com/44330919/63144276-c36afd80-bfb7-11e9-8153-1442b6a82b76.png)
+
+![Picture2](https://user-images.githubusercontent.com/44330919/63144323-f6ad8c80-bfb7-11e9-9205-efff16fc06c6.png)
+
+
