@@ -42,3 +42,5 @@ Code:
 •	treatDispenser.py
 •	cameraControl.py
 •	sendPix.py
+
+![GPIO](https://user-images.githubusercontent.com/44330919/63144065-d3cea880-bfb6-11e9-9402-32bd0312e217.png)
