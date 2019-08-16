@@ -1,1 +1,3 @@
 # Automated-Dog-Treat-Dispenser
+
+For our project, we created a cyber-physical computing system that automatically dispenses dog treats when a dog stands within a certain distance from the mechanism. A lot the hardware was 3D printed and soldered. The system is powered by a 5V power supply and driven by a stepper motor driver. The motor connects to an arm used as a pushing mechanism that dispenses the treats. After a dog is detected and the treat is dispensed, the system takes a picture using a Raspberry Pi camera, and then sends the picture to the dog owner’s email address with a timestamp so the owner can monitor the dog’s treat eating habitats.
