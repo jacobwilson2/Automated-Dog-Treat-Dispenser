@@ -13,15 +13,25 @@ timestamp so the owner can monitor the dog’s treat eating habitats.
 List of Equipment:
 
 •	LEDs
+
 •	Raspberry Pi
-•	Laptop 
+
+•	Laptop
+
 •	Raspberry Pi Camera 
+
 •	SR04 Rangefinder 
+
 •	Jumper Wires
+
 •	MBC25081TB stepper motor driver
+
 •	5V Switch Mode Power Supply
+
 •	3D printer
+
 •	Soldering Iron
+
 •	Metal Screws
 
 Code:
