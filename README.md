@@ -14,24 +14,24 @@ timestamp so the owner can monitor the dog’s treat eating habitats.
 
 *	LEDs
 *	Raspberry Pi
-*Laptop
-*Raspberry Pi Camera 
-*SR04 Rangefinder 
-*Jumper Wires
-*MBC25081TB stepper motor driver
-*5V Switch Mode Power Supply
-*3D printer
-*Soldering Iron
-*Metal Screws
+* Laptop
+* Raspberry Pi Camera 
+* SR04 Rangefinder 
+* Jumper Wires
+* MBC25081TB stepper motor driver
+* 5V Switch Mode Power Supply
+* 3D printer
+* Soldering Iron
+* Metal Screws
 
 **Code:**
 
-*dog.py (main)
-*led.py
-*rangefinder.py
-*treatDispenser.py
-*cameraControl.py
-*sendPix.py
+* dog.py (main)
+* led.py
+* rangefinder.py
+* treatDispenser.py
+* cameraControl.py
+* sendPix.py
 
 **Spreadsheet of GPIO pin outputs:**
 
