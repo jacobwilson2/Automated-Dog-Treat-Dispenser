@@ -2,6 +2,8 @@
 
 **Contributors: Jacob Wilson & Danielle Seedman**
 
+![Picture1](https://user-images.githubusercontent.com/44330919/63144276-c36afd80-bfb7-11e9-8153-1442b6a82b76.png)
+
 **Description:**
 
 For our project, we created a cyber-physical computing system that automatically dispenses dog treats when a dog stands within
@@ -33,14 +35,13 @@ timestamp so the owner can monitor the dog’s treat eating habitats.
 * cameraControl.py
 * sendPix.py
 
-**Spreadsheet of GPIO pin outputs:**
-
-![GPIO](https://user-images.githubusercontent.com/44330919/63144065-d3cea880-bfb6-11e9-9402-32bd0312e217.png)
-
-![Picture1](https://user-images.githubusercontent.com/44330919/63144276-c36afd80-bfb7-11e9-8153-1442b6a82b76.png)
-
 ![Picture2](https://user-images.githubusercontent.com/44330919/63144323-f6ad8c80-bfb7-11e9-9205-efff16fc06c6.png)
 
 ![Picture3](https://user-images.githubusercontent.com/44330919/63144387-4db36180-bfb8-11e9-9869-2d784f4fb84b.png)
 
 ![Picture4](https://user-images.githubusercontent.com/44330919/63144427-70457a80-bfb8-11e9-817f-4d9054817c9f.png)
+
+**Spreadsheet of GPIO pin outputs:**
+
+![GPIO](https://user-images.githubusercontent.com/44330919/63144065-d3cea880-bfb6-11e9-9402-32bd0312e217.png)
+
